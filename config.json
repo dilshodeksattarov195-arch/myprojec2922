@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrender",
+        "uuid": 25275300,
+        "checksum": "xcl206"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
